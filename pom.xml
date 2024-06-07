@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.83.217.28:8081/repository/newtesla-wep-release/</url>
+	      <url>http://18.117.91.77:8082/repository/web-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.83.217.28:8081/repository/newtesla-web-snapshot/</url>
+	      <url>http://18.117.91.77:8082/repository/web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
